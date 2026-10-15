@@ -1,0 +1,12 @@
+{
+  "name": "pint",
+  "version": "0.1.0",
+  "description": "Your context window as a pint of stout above the prompt. Fills as you go. Last orders at 85%.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Rudraj Mehta",
+    "url": "https://github.com/Rudrajmehta"
+  },
+  "repository": "https://github.com/Rudrajmehta/pint",
+  "license": "MIT"
+}

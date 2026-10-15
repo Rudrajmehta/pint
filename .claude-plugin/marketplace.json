@@ -1,0 +1,13 @@
+{
+  "name": "pint",
+  "owner": {
+    "name": "rudrajmehta"
+  },
+  "plugins": [
+    {
+      "name": "pint",
+      "source": "./"
+    }
+  ],
+  "description": "Your context window as a pint of stout above the Claude Code prompt."
+}
